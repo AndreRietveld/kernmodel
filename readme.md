@@ -1,6 +1,6 @@
 Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door middel van een AMEFF bestand. 
 
-1.	Opmerking xx vooraf.
+1.	Opmerking vooraf.
 
     Sparx is niet Archimate-gecertificeerd (noch 2 noch 3.1). Dus interoperabiliteit is potentieel een probleem. 
 
