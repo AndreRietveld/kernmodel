@@ -400,50 +400,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000005_3DF5_4f36_9433_8C006B1B1D53">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_19CC_484e_925F_398F0F10893A"
-        lineColor="#696969"
-        source="EAID_DN000005_3DF5_4f36_9433_8C006B1B1D53"
-        target="EAID_DN000010_9D81_45c7_BA43_874948D18067">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_A5A154B1_19CC_484e_925F_398F0F10893A.xml#EAID_A5A154B1_19CC_484e_925F_398F0F10893A"/>
-    </sourceConnections>
-    <bounds
-        x="305"
-        y="795"
-        width="90"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_EAID_635BBB7C_3DF5_4f36_9433_8C006B1B1D53.xml#EAID_635BBB7C_3DF5_4f36_9433_8C006B1B1D53"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000069_ACE4_41d6_9FBC_1BC0A5FC1FF2">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_71D7_43a9_9E38_0A37FAD62FD4"
-        lineColor="#696969"
-        source="EAID_DN000069_ACE4_41d6_9FBC_1BC0A5FC1FF2"
-        target="EAID_DN000010_9D81_45c7_BA43_874948D18067">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_CDC711A5_71D7_43a9_9E38_0A37FAD62FD4.xml#EAID_CDC711A5_71D7_43a9_9E38_0A37FAD62FD4"/>
-    </sourceConnections>
-    <bounds
-        x="400"
-        y="795"
-        width="90"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_EAID_6BA99C70_ACE4_41d6_9FBC_1BC0A5FC1FF2.xml#EAID_6BA99C70_ACE4_41d6_9FBC_1BC0A5FC1FF2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000003_B949_4617_9C52_4F6017F9E11B"
       targetConnections="EAID_DC000002_C931_4059_9774_82BF12351402">
     <sourceConnections
@@ -490,7 +446,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000010_9D81_45c7_BA43_874948D18067"
-      targetConnections="EAID_DC000001_1B0E_4f8d_9EC0_A45592C398B6 EAID_DC000001_EC90_46da_9C9E_A0260DAD351B EAID_DC000000_71D7_43a9_9E38_0A37FAD62FD4 EAID_DC000001_2B60_4145_8C24_8B7257AF0032 EAID_DC000001_8C21_488f_A093_58446F007200 EAID_DC000001_0147_4b68_A2FE_928E06BA345B EAID_DC000001_1BFD_457c_8FB8_8CB0326E9C79 EAID_DC000000_D59E_4614_AB18_99DBDE0E2C7A EAID_DC000001_33B1_4b1d_ACB6_1F876955253E EAID_DC000000_8CC5_4d34_B8B9_578CCDD0DD60 EAID_DC000001_520C_47ea_A4AD_9C67B0641B20 EAID_DC000000_D3A9_4d27_B00D_70F8F57E2B81 EAID_DC000001_D55A_4fc9_87F4_E3D1B1A9E6B4 EAID_DC000000_19CC_484e_925F_398F0F10893A EAID_DC000000_A6F7_497e_B33A_7A11C5427CE9 EAID_DC000000_56F3_4774_ADDC_B9504F80009A">
+      targetConnections="EAID_DC000001_1B0E_4f8d_9EC0_A45592C398B6 EAID_DC000001_EC90_46da_9C9E_A0260DAD351B EAID_DC000001_2B60_4145_8C24_8B7257AF0032 EAID_DC000001_8C21_488f_A093_58446F007200 EAID_DC000001_0147_4b68_A2FE_928E06BA345B EAID_DC000001_1BFD_457c_8FB8_8CB0326E9C79 EAID_DC000000_D59E_4614_AB18_99DBDE0E2C7A EAID_DC000001_33B1_4b1d_ACB6_1F876955253E EAID_DC000000_8CC5_4d34_B8B9_578CCDD0DD60 EAID_DC000001_520C_47ea_A4AD_9C67B0641B20 EAID_DC000000_D3A9_4d27_B00D_70F8F57E2B81 EAID_DC000001_D55A_4fc9_87F4_E3D1B1A9E6B4 EAID_DC000000_A6F7_497e_B33A_7A11C5427CE9 EAID_DC000000_56F3_4774_ADDC_B9504F80009A">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000001_1FDF_40de_9BC5_F3B4C66812E0"
