@@ -380,75 +380,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000002_7CD5_47ce_80E1_F40F92BD052E"
-      fillColor="#ccffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_64A8_49c1_AB7A_90A9FBF34024"
-        lineColor="#696969"
-        source="EAID_DN000002_7CD5_47ce_80E1_F40F92BD052E"
-        target="EAID_DN000006_E1D8_473c_9D49_D12B7AD1FBFD">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_D5C61C3A_64A8_49c1_AB7A_90A9FBF34024.xml#EAID_D5C61C3A_64A8_49c1_AB7A_90A9FBF34024"/>
-    </sourceConnections>
-    <bounds
-        x="210"
-        y="620"
-        width="90"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_EAID_400A4094_7CD5_47ce_80E1_F40F92BD052E.xml#EAID_400A4094_7CD5_47ce_80E1_F40F92BD052E"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000009_ACE4_41d6_9FBC_1BC0A5FC1FF2">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_E518_414d_8861_DEC153BE05A1"
-        lineColor="#696969"
-        source="EAID_DN000009_ACE4_41d6_9FBC_1BC0A5FC1FF2"
-        target="EAID_DN000006_E1D8_473c_9D49_D12B7AD1FBFD">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_9DB569E7_E518_414d_8861_DEC153BE05A1.xml#EAID_9DB569E7_E518_414d_8861_DEC153BE05A1"/>
-    </sourceConnections>
-    <bounds
-        x="305"
-        y="620"
-        width="90"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_EAID_6BA99C70_ACE4_41d6_9FBC_1BC0A5FC1FF2.xml#EAID_6BA99C70_ACE4_41d6_9FBC_1BC0A5FC1FF2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000003_6DCA_4d4d_959A_3DE31CEFE69D">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_C21E_47c5_A3F8_B5A6DF62659F"
-        lineColor="#696969"
-        source="EAID_DN000003_6DCA_4d4d_959A_3DE31CEFE69D"
-        target="EAID_DN000006_E1D8_473c_9D49_D12B7AD1FBFD">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_96DA159F_C21E_47c5_A3F8_B5A6DF62659F.xml#EAID_96DA159F_C21E_47c5_A3F8_B5A6DF62659F"/>
-    </sourceConnections>
-    <bounds
-        x="400"
-        y="620"
-        width="90"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_EAID_3C9CE151_6DCA_4d4d_959A_3DE31CEFE69D.xml#EAID_3C9CE151_6DCA_4d4d_959A_3DE31CEFE69D"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000006_E1D8_473c_9D49_D12B7AD1FBFD"
-      targetConnections="EAID_DC000000_ECD1_4791_ACA2_81857F27136F EAID_DC000001_37C0_4a4b_9AEB_526A37BB6E2D EAID_DC000001_CD93_4f22_A6B5_A23F34355133 EAID_DC000000_C664_4374_A225_C560D06D6224 EAID_DC000000_FB5C_4278_A622_336C1A49D061 EAID_DC000000_E518_414d_8861_DEC153BE05A1 EAID_DC000001_F781_4a7d_87C4_B5C434236290 EAID_DC000000_43D6_4274_9051_00AFCC1F1AA4 EAID_DC000000_038A_4751_9003_406A9683DF30 EAID_DC000000_590A_443e_921F_56525B691B1B EAID_DC000000_C21E_47c5_A3F8_B5A6DF62659F EAID_DC000000_0E76_4d0b_870E_5C9E98177D45 EAID_DC000000_64A8_49c1_AB7A_90A9FBF34024 EAID_DC000001_752D_4e12_A53F_B44EA1B43D75">
+      targetConnections="EAID_DC000000_ECD1_4791_ACA2_81857F27136F EAID_DC000001_37C0_4a4b_9AEB_526A37BB6E2D EAID_DC000001_CD93_4f22_A6B5_A23F34355133 EAID_DC000000_C664_4374_A225_C560D06D6224 EAID_DC000000_FB5C_4278_A622_336C1A49D061 EAID_DC000001_F781_4a7d_87C4_B5C434236290 EAID_DC000000_43D6_4274_9051_00AFCC1F1AA4 EAID_DC000000_038A_4751_9003_406A9683DF30 EAID_DC000000_590A_443e_921F_56525B691B1B EAID_DC000000_0E76_4d0b_870E_5C9E98177D45 EAID_DC000001_752D_4e12_A53F_B44EA1B43D75">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_066D_4b59_B4EF_350483E930D7"
