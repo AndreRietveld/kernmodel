@@ -921,18 +921,6 @@
             xsi:type="archimate:Principle"
             href="Principle_EAID_0A1BF44C_42E1_4f2d_A57E_34AD155F4352.xml#EAID_0A1BF44C_42E1_4f2d_A57E_34AD155F4352"/>
       </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_521B_442f_9432_F058F69F6EEE">
-        <bounds
-            x="24"
-            y="275"
-            width="270"
-            height="38"/>
-        <archimateElement
-            xsi:type="archimate:CommunicationNetwork"
-            href="CommunicationNetwork_EAID_C73647E6_521B_442f_9432_F058F69F6EEE.xml#EAID_C73647E6_521B_442f_9432_F058F69F6EEE"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationCollaboration"
           href="ApplicationCollaboration_EAID_AA642226_3E2D_4922_9642_24EA89F19A97.xml#EAID_AA642226_3E2D_4922_9642_24EA89F19A97"/>
