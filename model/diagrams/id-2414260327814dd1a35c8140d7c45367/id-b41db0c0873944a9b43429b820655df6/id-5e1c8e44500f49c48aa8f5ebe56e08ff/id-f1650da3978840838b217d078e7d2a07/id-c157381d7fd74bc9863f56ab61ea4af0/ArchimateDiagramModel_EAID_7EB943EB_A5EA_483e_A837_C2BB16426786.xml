@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - End user portal for System Center Orchestrator"
+    id="EAID_7EB943EB_A5EA_483e_A837_C2BB16426786">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_9B66_4d75_9F4E_F53BA9F0A67F">
+    <bounds
+        x="307"
+        y="131"
+        width="92"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A17B72A0_9B66_4d75_9F4E_F53BA9F0A67F.xml#EAID_A17B72A0_9B66_4d75_9F4E_F53BA9F0A67F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

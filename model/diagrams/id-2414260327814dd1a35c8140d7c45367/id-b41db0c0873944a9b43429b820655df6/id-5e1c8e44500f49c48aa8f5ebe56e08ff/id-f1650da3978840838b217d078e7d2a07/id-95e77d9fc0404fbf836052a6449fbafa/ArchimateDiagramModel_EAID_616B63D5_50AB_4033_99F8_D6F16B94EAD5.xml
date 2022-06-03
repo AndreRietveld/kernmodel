@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - NFS File service"
+    id="EAID_616B63D5_50AB_4033_99F8_D6F16B94EAD5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000006_6AD7_4c6f_8F42_1EDD4276C778">
+    <bounds
+        x="265"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_032198B1_6AD7_4c6f_8F42_1EDD4276C778.xml#EAID_032198B1_6AD7_4c6f_8F42_1EDD4276C778"/>
+  </children>
+</archimate:ArchimateDiagramModel>

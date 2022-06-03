@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Device security"
+    id="EAID_3ED89002_5F46_4668_AB33_48FC77FAB0C8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_ED6D_4056_984A_A1ED7497E230">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230.xml#EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230"/>
+  </children>
+</archimate:ArchimateDiagramModel>

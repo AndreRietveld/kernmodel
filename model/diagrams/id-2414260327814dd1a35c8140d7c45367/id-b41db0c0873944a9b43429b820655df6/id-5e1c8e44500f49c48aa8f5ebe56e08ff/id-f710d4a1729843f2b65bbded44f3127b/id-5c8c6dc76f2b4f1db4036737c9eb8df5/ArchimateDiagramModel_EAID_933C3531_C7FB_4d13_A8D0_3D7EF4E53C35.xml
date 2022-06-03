@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - WDM darkfiber ontsluiting"
+    id="EAID_933C3531_C7FB_4d13_A8D0_3D7EF4E53C35">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_7D4C_4a8f_A164_FA47609879D2">
+    <bounds
+        x="347"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2.xml#EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - WAN"
+    id="EAID_12C9FFCC_DA82_49af_B753_515A5C0699A3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_8CF4_4ba0_825C_8E2C5B340A5C">
+    <bounds
+        x="460"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AB0A79CD_8CF4_4ba0_825C_8E2C5B340A5C.xml#EAID_AB0A79CD_8CF4_4ba0_825C_8E2C5B340A5C"/>
+  </children>
+</archimate:ArchimateDiagramModel>

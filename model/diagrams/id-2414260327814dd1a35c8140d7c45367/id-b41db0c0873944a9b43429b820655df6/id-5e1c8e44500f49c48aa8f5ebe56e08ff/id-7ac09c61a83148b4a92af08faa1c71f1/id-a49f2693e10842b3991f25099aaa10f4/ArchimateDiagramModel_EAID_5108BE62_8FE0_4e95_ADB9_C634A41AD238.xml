@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Flexera"
+    id="EAID_5108BE62_8FE0_4e95_ADB9_C634A41AD238"
+    documentation="20170425 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000013_A71C_45fa_B643_98549738E009">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A8644B40_A71C_45fa_B643_98549738E009.xml#EAID_A8644B40_A71C_45fa_B643_98549738E009"/>
+  </children>
+</archimate:ArchimateDiagramModel>

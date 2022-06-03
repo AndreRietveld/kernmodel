@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Scheduling"
+    id="EAID_91EC3FBF_60CE_4ade_8CAB_918BBD22B829">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_622F_4976_8580_1A84CE3911D1">
+    <bounds
+        x="185"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E7B88A7E_622F_4976_8580_1A84CE3911D1.xml#EAID_E7B88A7E_622F_4976_8580_1A84CE3911D1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

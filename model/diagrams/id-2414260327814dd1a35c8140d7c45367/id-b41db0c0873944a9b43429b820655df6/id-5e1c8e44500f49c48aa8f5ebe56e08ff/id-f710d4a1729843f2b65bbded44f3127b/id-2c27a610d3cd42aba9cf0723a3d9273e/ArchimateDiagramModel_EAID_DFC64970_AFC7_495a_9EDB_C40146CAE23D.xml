@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - ToetsWerkplek SCI"
+    id="EAID_DFC64970_AFC7_495a_9EDB_C40146CAE23D"
+    documentation="Validated&#xA;20171114 by bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_E184_4b44_88A8_E542572EC82F">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_6662ED10_E184_4b44_88A8_E542572EC82F.xml#EAID_6662ED10_E184_4b44_88A8_E542572EC82F"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000007_4507_411a_90BD_F295F6BA4D57">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_64D9C903_4507_411a_90BD_F295F6BA4D57.xml#EAID_64D9C903_4507_411a_90BD_F295F6BA4D57"/>
+  </children>
+</archimate:ArchimateDiagramModel>

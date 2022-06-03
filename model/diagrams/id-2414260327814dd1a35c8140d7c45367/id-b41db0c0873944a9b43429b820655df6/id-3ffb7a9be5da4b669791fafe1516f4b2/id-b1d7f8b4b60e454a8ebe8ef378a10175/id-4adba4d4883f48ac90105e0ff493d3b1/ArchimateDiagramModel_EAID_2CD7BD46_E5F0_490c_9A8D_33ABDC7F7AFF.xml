@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - File synchronisation"
+    id="EAID_2CD7BD46_E5F0_490c_9A8D_33ABDC7F7AFF">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_A6CD_4b33_BCB2_90C556F604F1">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_2E351E5A_A6CD_4b33_BCB2_90C556F604F1.xml#EAID_2E351E5A_A6CD_4b33_BCB2_90C556F604F1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

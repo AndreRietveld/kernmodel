@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Telephony"
+    id="EAID_920DC6A7_7DB2_4d3d_9121_BB7F56FB9C02">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_A7E5_49f8_AD07_56ACC608871E">
+    <bounds
+        x="350"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E.xml#EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

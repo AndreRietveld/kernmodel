@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Multiplexing"
+    id="EAID_2C20BEE3_A1A8_4d8d_8542_3E8D11950FC7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_7D4C_4a8f_A164_FA47609879D2">
+    <bounds
+        x="130"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2.xml#EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

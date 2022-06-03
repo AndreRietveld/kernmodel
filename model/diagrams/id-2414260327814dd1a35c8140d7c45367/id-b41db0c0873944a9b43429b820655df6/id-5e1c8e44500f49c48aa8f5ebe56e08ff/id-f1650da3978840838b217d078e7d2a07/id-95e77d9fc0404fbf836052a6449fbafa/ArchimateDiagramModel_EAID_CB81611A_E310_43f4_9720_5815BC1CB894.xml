@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - PostgreSQL 9"
+    id="EAID_CB81611A_E310_43f4_9720_5815BC1CB894">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000012_9601_4992_B682_BAB6715CE99E">
+    <bounds
+        x="330"
+        y="150"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F809E885_9601_4992_B682_BAB6715CE99E.xml#EAID_F809E885_9601_4992_B682_BAB6715CE99E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

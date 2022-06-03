@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - SAP router intern"
+    id="EAID_86031F8B_65AB_496c_BA7F_C00919A86887"
+    documentation="20170502 validated by Piet Kempenaar">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000008_3907_473d_9EAC_E2FD9CF4317B"
+      fillColor="#ccffcc">
+    <bounds
+        x="20"
+        y="180"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_7628FA22_3907_473d_9EAC_E2FD9CF4317B.xml#EAID_7628FA22_3907_473d_9EAC_E2FD9CF4317B"/>
+  </children>
+</archimate:ArchimateDiagramModel>

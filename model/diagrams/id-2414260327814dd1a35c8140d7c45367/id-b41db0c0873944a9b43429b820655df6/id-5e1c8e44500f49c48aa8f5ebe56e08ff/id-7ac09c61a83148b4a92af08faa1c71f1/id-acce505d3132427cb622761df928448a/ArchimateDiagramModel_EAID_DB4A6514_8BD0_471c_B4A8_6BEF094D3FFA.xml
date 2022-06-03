@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - IBM Directory Server (LDAP BRON PO, RSA oud)"
+    id="EAID_DB4A6514_8BD0_471c_B4A8_6BEF094D3FFA"
+    documentation="20170411 validated by Jeroen Bakker">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_0B1A_4185_AFEE_8F5FD285EC8E">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_AB00127B_0B1A_4185_AFEE_8F5FD285EC8E.xml#EAID_AB00127B_0B1A_4185_AFEE_8F5FD285EC8E"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000020_4D14_4f7a_819F_FE7BD61D0EC3">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3.xml#EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

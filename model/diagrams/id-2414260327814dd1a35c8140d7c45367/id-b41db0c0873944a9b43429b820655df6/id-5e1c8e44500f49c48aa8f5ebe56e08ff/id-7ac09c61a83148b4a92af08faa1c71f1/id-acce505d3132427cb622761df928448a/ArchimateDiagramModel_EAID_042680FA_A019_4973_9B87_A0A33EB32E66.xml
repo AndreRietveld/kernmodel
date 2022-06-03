@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Symantec endpoint protection"
+    id="EAID_042680FA_A019_4973_9B87_A0A33EB32E66"
+    documentation="20170515 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_4400_459d_BF34_8CBC81BE6CE5">
+    <bounds
+        x="503"
+        y="151"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5.xml#EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_ED6D_4056_984A_A1ED7497E230">
+    <bounds
+        x="391"
+        y="151"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230.xml#EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230"/>
+  </children>
+</archimate:ArchimateDiagramModel>

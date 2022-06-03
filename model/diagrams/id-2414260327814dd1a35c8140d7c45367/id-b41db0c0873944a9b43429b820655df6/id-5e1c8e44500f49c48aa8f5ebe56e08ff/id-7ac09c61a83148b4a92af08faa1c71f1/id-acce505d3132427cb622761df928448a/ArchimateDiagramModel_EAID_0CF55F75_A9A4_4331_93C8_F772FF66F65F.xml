@@ -1,0 +1,55 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Microsoft Active Directory"
+    id="EAID_0CF55F75_A9A4_4331_93C8_F772FF66F65F"
+    documentation="20170504 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000006_E86A_45ed_A7A6_51FD9E2B2E5B">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_E4DF32CB_E86A_45ed_A7A6_51FD9E2B2E5B.xml#EAID_E4DF32CB_E86A_45ed_A7A6_51FD9E2B2E5B"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000019_1146_4fb2_B641_F5FC2E521264">
+    <bounds
+        x="20"
+        y="440"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A4733125_1146_4fb2_B641_F5FC2E521264.xml#EAID_A4733125_1146_4fb2_B641_F5FC2E521264"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000024_4D14_4f7a_819F_FE7BD61D0EC3">
+    <bounds
+        x="20"
+        y="495"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3.xml#EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_ED81_4d83_9411_34ACD83D0247">
+    <bounds
+        x="20"
+        y="550"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_EAID_8F32399B_ED81_4d83_9411_34ACD83D0247.xml#EAID_8F32399B_ED81_4d83_9411_34ACD83D0247"/>
+  </children>
+</archimate:ArchimateDiagramModel>

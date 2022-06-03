@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Host based IPS en IDS"
+    id="EAID_094B1770_BF2C_43fa_B795_DE9070B4E2F8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_DCBB_41df_B5B1_90BF92EECF7D">
+    <bounds
+        x="465"
+        y="114"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D.xml#EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

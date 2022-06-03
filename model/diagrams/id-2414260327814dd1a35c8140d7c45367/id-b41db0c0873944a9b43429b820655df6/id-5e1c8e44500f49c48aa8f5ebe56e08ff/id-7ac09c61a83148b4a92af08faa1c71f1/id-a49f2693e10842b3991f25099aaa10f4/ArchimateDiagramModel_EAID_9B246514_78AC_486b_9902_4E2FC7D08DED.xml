@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - AGPM"
+    id="EAID_9B246514_78AC_486b_9902_4E2FC7D08DED">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_8CB0_47c9_AC39_AD8A01494796">
+    <bounds
+        x="354"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B050E280_8CB0_47c9_AC39_AD8A01494796.xml#EAID_B050E280_8CB0_47c9_AC39_AD8A01494796"/>
+  </children>
+</archimate:ArchimateDiagramModel>

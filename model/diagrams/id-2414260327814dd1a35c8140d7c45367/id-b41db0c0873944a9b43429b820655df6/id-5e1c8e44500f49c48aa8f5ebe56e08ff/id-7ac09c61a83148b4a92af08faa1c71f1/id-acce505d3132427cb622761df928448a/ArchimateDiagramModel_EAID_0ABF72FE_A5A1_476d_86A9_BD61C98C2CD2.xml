@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Zabbix-proxy"
+    id="EAID_0ABF72FE_A5A1_476d_86A9_BD61C98C2CD2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000006_C845_4d88_8960_DDCEEE87E4A9"
+      fillColor="#ccffcc">
+    <bounds
+        x="303"
+        y="157"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9.xml#EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

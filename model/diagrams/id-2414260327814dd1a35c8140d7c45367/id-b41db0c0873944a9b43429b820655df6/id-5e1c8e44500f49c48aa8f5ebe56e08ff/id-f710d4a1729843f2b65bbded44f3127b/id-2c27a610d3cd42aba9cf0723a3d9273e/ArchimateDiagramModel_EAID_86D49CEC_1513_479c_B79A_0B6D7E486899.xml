@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Telefoontoestel"
+    id="EAID_86D49CEC_1513_479c_B79A_0B6D7E486899">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_A7E5_49f8_AD07_56ACC608871E">
+    <bounds
+        x="60"
+        y="440"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E.xml#EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

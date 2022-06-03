@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Oracle RAC"
+    id="EAID_F28A298E_EC42_4e62_A8FA_8608392560E1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000011_5F89_4915_9DC9_F8E23D646E56">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_2B3E986C_5F89_4915_9DC9_F8E23D646E56.xml#EAID_2B3E986C_5F89_4915_9DC9_F8E23D646E56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_3080_47f3_8C31_29398BE8862E">
+    <bounds
+        x="20"
+        y="240"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_935BD09B_3080_47f3_8C31_29398BE8862E.xml#EAID_935BD09B_3080_47f3_8C31_29398BE8862E"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000019_9601_4992_B682_BAB6715CE99E">
+    <bounds
+        x="20"
+        y="295"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F809E885_9601_4992_B682_BAB6715CE99E.xml#EAID_F809E885_9601_4992_B682_BAB6715CE99E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

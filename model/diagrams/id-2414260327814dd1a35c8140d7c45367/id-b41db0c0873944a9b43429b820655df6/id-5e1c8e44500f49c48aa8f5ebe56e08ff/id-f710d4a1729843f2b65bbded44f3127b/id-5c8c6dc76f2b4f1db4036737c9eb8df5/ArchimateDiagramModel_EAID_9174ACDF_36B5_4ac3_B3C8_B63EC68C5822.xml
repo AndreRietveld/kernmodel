@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - CDWM darkfiber ontsluiting"
+    id="EAID_9174ACDF_36B5_4ac3_B3C8_B63EC68C5822">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_7D4C_4a8f_A164_FA47609879D2">
+    <bounds
+        x="353"
+        y="163"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2.xml#EAID_6076FEC3_7D4C_4a8f_A164_FA47609879D2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

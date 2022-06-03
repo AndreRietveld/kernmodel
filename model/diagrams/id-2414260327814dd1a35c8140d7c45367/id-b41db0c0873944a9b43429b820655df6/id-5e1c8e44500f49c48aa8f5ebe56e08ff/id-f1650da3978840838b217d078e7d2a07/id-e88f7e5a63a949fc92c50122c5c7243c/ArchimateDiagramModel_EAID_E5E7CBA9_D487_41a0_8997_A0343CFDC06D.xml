@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Rsync/SSH"
+    id="EAID_E5E7CBA9_D487_41a0_8997_A0343CFDC06D">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_A6CD_4b33_BCB2_90C556F604F1">
+    <bounds
+        x="355"
+        y="125"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_2E351E5A_A6CD_4b33_BCB2_90C556F604F1.xml#EAID_2E351E5A_A6CD_4b33_BCB2_90C556F604F1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

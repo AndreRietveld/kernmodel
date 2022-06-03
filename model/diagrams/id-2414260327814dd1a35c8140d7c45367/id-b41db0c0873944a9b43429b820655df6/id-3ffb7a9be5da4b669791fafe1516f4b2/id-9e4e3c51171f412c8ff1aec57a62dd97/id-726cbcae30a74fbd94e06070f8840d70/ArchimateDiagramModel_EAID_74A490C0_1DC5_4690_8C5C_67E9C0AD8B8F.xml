@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - NTP"
+    id="EAID_74A490C0_1DC5_4690_8C5C_67E9C0AD8B8F">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_236D_47e5_AA85_5EC0807C9437">
+    <bounds
+        x="185"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_74292049_236D_47e5_AA85_5EC0807C9437.xml#EAID_74292049_236D_47e5_AA85_5EC0807C9437"/>
+  </children>
+</archimate:ArchimateDiagramModel>

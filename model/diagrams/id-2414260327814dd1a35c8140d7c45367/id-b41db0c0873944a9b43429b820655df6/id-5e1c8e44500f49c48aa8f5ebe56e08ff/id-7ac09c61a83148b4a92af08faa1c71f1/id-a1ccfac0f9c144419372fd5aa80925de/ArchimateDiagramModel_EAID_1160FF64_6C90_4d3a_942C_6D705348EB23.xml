@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Gitlab"
+    id="EAID_1160FF64_6C90_4d3a_942C_6D705348EB23"
+    documentation="Validated&#xA;20171107 by Ate Siemensma">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_E6F8_4ea5_A6A0_995EF7C15734">
+    <bounds
+        x="313"
+        y="150"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734.xml#EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_3B5C_4ee6_8B60_BF5310734163"
+      fillColor="#ccffcc">
+    <bounds
+        x="218"
+        y="150"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_798D2AEE_3B5C_4ee6_8B60_BF5310734163.xml#EAID_798D2AEE_3B5C_4ee6_8B60_BF5310734163"/>
+  </children>
+</archimate:ArchimateDiagramModel>

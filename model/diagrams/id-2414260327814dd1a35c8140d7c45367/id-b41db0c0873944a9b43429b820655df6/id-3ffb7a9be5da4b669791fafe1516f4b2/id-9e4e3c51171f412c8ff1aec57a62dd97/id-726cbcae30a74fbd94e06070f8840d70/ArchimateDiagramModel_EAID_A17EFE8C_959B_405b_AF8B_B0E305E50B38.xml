@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Network load balancing"
+    id="EAID_A17EFE8C_959B_405b_AF8B_B0E305E50B38">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_71BD_4735_8F2D_4F59C8DFA23D">
+    <bounds
+        x="130"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_FF84C837_71BD_4735_8F2D_4F59C8DFA23D.xml#EAID_FF84C837_71BD_4735_8F2D_4F59C8DFA23D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

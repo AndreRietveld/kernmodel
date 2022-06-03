@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - CIS CAT pro"
+    id="EAID_5BC7858E_77F9_4db2_A153_C5DB1D3AAA48"
+    documentation="Validated:&#xA;20170529 by Erik Veenstra">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_C239_4d9d_8BE3_FF4DCEAD5C08">
+    <bounds
+        x="338"
+        y="155"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_44704721_C239_4d9d_8BE3_FF4DCEAD5C08.xml#EAID_44704721_C239_4d9d_8BE3_FF4DCEAD5C08"/>
+  </children>
+</archimate:ArchimateDiagramModel>

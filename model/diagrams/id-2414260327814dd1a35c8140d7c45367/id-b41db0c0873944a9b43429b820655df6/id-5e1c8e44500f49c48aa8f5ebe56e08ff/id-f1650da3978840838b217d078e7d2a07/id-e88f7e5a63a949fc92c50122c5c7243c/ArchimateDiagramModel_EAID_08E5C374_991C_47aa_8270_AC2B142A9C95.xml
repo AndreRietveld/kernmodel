@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - PowerCenter 10.1"
+    id="EAID_08E5C374_991C_47aa_8270_AC2B142A9C95"
+    documentation="validated &#xA;20170622 by Sim Dijkstra">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_D4ED_46f5_AB3C_77870CA08017">
+    <bounds
+        x="290"
+        y="130"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_D1975599_D4ED_46f5_AB3C_77870CA08017.xml#EAID_D1975599_D4ED_46f5_AB3C_77870CA08017"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_622F_4976_8580_1A84CE3911D1">
+    <bounds
+        x="400"
+        y="130"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E7B88A7E_622F_4976_8580_1A84CE3911D1.xml#EAID_E7B88A7E_622F_4976_8580_1A84CE3911D1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

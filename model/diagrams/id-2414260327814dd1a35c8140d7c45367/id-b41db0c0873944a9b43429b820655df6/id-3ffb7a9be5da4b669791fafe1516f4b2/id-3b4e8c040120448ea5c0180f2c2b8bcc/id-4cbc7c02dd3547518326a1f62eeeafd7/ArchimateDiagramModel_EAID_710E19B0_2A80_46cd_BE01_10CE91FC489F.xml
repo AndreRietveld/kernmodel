@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Firewall"
+    id="EAID_710E19B0_2A80_46cd_BE01_10CE91FC489F">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_CC47_4833_B849_992C30500284">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E28BA702_CC47_4833_B849_992C30500284.xml#EAID_E28BA702_CC47_4833_B849_992C30500284"/>
+  </children>
+</archimate:ArchimateDiagramModel>

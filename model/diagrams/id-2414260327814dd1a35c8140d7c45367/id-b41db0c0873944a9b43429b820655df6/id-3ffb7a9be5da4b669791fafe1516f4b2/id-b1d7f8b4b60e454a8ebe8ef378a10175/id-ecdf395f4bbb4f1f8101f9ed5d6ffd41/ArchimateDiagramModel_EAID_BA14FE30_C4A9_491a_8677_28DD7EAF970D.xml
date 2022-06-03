@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Remote desktop services"
+    id="EAID_BA14FE30_C4A9_491a_8677_28DD7EAF970D">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_3554_4709_AD6B_60D809E575B0">
+    <bounds
+        x="130"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_C98FA409_3554_4709_AD6B_60D809E575B0.xml#EAID_C98FA409_3554_4709_AD6B_60D809E575B0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

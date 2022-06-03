@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view -DUO printstraat"
+    id="EAID_92818D23_85FD_4ca4_AA45_FAC7BE55933F"
+    documentation="20170530 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_1DAC_4957_9F63_1449D7C01782">
+    <bounds
+        x="290"
+        y="110"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_56297795_1DAC_4957_9F63_1449D7C01782.xml#EAID_56297795_1DAC_4957_9F63_1449D7C01782"/>
+  </children>
+</archimate:ArchimateDiagramModel>

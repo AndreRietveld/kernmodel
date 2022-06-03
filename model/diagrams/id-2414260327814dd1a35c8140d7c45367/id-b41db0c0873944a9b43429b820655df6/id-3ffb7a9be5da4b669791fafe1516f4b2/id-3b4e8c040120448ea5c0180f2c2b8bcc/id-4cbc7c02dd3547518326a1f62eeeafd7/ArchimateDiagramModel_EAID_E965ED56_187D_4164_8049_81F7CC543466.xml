@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Security Access control"
+    id="EAID_E965ED56_187D_4164_8049_81F7CC543466">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_989D_410c_9A80_D0261E19C373">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_712C7BD7_989D_410c_9A80_D0261E19C373.xml#EAID_712C7BD7_989D_410c_9A80_D0261E19C373"/>
+  </children>
+</archimate:ArchimateDiagramModel>

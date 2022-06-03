@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Gitlab"
+    id="EAID_82F58520_808B_4f4b_8B1A_AB7318700D3B"
+    documentation="Validated&#xA;20171107 by Ate Siemensma">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000011_26C4_4526_9BAE_69F47C54155E">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_98A216E1_26C4_4526_9BAE_69F47C54155E.xml#EAID_98A216E1_26C4_4526_9BAE_69F47C54155E"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_E6F8_4ea5_A6A0_995EF7C15734">
+    <bounds
+        x="20"
+        y="240"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734.xml#EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_3B5C_4ee6_8B60_BF5310734163">
+    <bounds
+        x="20"
+        y="295"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_798D2AEE_3B5C_4ee6_8B60_BF5310734163.xml#EAID_798D2AEE_3B5C_4ee6_8B60_BF5310734163"/>
+  </children>
+</archimate:ArchimateDiagramModel>

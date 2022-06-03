@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Intrusion detection en prevention"
+    id="EAID_69A53123_CC0F_4dac_835D_DB8D864F2849">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_DCBB_41df_B5B1_90BF92EECF7D">
+    <bounds
+        x="185"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D.xml#EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

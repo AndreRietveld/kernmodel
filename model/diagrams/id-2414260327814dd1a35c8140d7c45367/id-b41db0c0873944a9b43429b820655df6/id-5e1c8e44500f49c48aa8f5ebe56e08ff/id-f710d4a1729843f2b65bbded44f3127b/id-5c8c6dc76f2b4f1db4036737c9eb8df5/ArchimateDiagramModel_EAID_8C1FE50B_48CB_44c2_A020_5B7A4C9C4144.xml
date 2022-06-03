@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - NTP access routers"
+    id="EAID_8C1FE50B_48CB_44c2_A020_5B7A4C9C4144">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_236D_47e5_AA85_5EC0807C9437">
+    <bounds
+        x="270"
+        y="153"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_74292049_236D_47e5_AA85_5EC0807C9437.xml#EAID_74292049_236D_47e5_AA85_5EC0807C9437"/>
+  </children>
+</archimate:ArchimateDiagramModel>

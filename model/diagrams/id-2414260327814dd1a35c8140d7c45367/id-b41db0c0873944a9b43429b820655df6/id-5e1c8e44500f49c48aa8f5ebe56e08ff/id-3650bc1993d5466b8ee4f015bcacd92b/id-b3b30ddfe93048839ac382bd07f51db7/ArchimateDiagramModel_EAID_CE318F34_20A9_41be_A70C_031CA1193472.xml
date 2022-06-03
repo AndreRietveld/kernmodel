@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Skype for business"
+    id="EAID_CE318F34_20A9_41be_A70C_031CA1193472"
+    documentation="20170425 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000007_C63C_4dfe_A427_25B32B86E8DB">
+    <bounds
+        x="20"
+        y="240"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AC29E82D_C63C_4dfe_A427_25B32B86E8DB.xml#EAID_AC29E82D_C63C_4dfe_A427_25B32B86E8DB"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_5F0D_4f3c_B348_A72CCC127385">
+    <bounds
+        x="20"
+        y="295"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_415ABB8E_5F0D_4f3c_B348_A72CCC127385.xml#EAID_415ABB8E_5F0D_4f3c_B348_A72CCC127385"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000007_68B3_4e91_8ADA_F70062876A08">
+    <bounds
+        x="20"
+        y="350"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_9655AC55_68B3_4e91_8ADA_F70062876A08.xml#EAID_9655AC55_68B3_4e91_8ADA_F70062876A08"/>
+  </children>
+</archimate:ArchimateDiagramModel>

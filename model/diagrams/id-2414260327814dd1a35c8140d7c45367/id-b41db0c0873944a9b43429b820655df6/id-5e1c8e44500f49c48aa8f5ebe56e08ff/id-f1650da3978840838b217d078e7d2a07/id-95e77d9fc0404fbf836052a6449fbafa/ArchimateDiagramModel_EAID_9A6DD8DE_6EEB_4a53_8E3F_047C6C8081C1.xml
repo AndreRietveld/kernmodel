@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - SQL 2008R2 failovercluster"
+    id="EAID_9A6DD8DE_6EEB_4a53_8E3F_047C6C8081C1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000013_9601_4992_B682_BAB6715CE99E">
+    <bounds
+        x="338"
+        y="100"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F809E885_9601_4992_B682_BAB6715CE99E.xml#EAID_F809E885_9601_4992_B682_BAB6715CE99E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

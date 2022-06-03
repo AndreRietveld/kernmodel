@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Fortinet Fortigate firewall"
+    id="EAID_DA52EBF1_331A_4ec9_824C_EBC3A440F846">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_CC47_4833_B849_992C30500284">
+    <bounds
+        x="390"
+        y="115"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E28BA702_CC47_4833_B849_992C30500284.xml#EAID_E28BA702_CC47_4833_B849_992C30500284"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_4764_4146_B3EE_16158C972635">
+    <bounds
+        x="273"
+        y="115"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A6A2E72A_4764_4146_B3EE_16158C972635.xml#EAID_A6A2E72A_4764_4146_B3EE_16158C972635"/>
+  </children>
+</archimate:ArchimateDiagramModel>

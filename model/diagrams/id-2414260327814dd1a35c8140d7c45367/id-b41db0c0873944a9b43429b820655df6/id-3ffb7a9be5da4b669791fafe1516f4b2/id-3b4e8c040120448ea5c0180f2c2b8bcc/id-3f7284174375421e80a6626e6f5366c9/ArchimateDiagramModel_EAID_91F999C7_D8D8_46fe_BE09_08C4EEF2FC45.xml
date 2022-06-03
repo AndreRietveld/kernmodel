@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - OTAP"
+    id="EAID_91F999C7_D8D8_46fe_BE09_08C4EEF2FC45">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_E6F8_4ea5_A6A0_995EF7C15734">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734.xml#EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734"/>
+  </children>
+</archimate:ArchimateDiagramModel>

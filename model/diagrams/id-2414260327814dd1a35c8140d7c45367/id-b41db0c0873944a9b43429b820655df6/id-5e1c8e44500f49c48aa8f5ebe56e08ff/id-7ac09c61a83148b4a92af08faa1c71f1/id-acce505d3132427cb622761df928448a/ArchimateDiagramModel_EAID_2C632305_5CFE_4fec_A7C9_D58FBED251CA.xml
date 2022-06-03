@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Network based IPS"
+    id="EAID_2C632305_5CFE_4fec_A7C9_D58FBED251CA">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_DCBB_41df_B5B1_90BF92EECF7D">
+    <bounds
+        x="451"
+        y="112"
+        width="89"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D.xml#EAID_00D7B0BF_DCBB_41df_B5B1_90BF92EECF7D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

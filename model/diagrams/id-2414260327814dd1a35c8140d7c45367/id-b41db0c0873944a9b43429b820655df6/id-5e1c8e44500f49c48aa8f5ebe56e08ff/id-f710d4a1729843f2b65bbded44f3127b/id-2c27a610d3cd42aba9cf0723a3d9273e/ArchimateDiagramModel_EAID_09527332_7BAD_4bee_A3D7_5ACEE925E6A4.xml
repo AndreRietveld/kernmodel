@@ -1,0 +1,55 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Equitrac Office"
+    id="EAID_09527332_7BAD_4bee_A3D7_5ACEE925E6A4"
+    documentation="20170530 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000011_451C_42ac_AA45_877B3143BE05">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_112800ED_451C_42ac_AA45_877B3143BE05.xml#EAID_112800ED_451C_42ac_AA45_877B3143BE05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_142C_46e4_8261_526DC1CCD84D">
+    <bounds
+        x="20"
+        y="240"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E68799A2_142C_46e4_8261_526DC1CCD84D.xml#EAID_E68799A2_142C_46e4_8261_526DC1CCD84D"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_5D97_4cf7_9359_0F33AFBC467F">
+    <bounds
+        x="20"
+        y="295"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F.xml#EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_626F_46b2_BF21_6C5E1B97774F">
+    <bounds
+        x="20"
+        y="350"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DDC08ECC_626F_46b2_BF21_6C5E1B97774F.xml#EAID_DDC08ECC_626F_46b2_BF21_6C5E1B97774F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Cisco Wireless Access Point"
+    id="EAID_A1D4C1BB_86E7_4e69_B413_553DC22D2AA6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_C599_4859_9BC1_466C6ECEBA9B">
+    <bounds
+        x="366"
+        y="127"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_641466DF_C599_4859_9BC1_466C6ECEBA9B.xml#EAID_641466DF_C599_4859_9BC1_466C6ECEBA9B"/>
+  </children>
+</archimate:ArchimateDiagramModel>

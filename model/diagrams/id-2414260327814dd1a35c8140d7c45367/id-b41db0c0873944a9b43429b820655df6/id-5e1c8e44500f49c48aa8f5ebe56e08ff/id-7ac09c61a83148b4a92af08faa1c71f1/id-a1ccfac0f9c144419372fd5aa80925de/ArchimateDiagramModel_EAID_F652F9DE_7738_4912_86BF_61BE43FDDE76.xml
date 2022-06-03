@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - EA Sparx Applicatie Server"
+    id="EAID_F652F9DE_7738_4912_86BF_61BE43FDDE76"
+    documentation="Validated:&#xA;20180129 by Jeroen Bakker">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_F8E7_4aa5_AD72_A7B4ACDF1DC0"
+      fillColor="#ccffcc">
+    <bounds
+        x="320"
+        y="170"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_89ECB370_F8E7_4aa5_AD72_A7B4ACDF1DC0.xml#EAID_89ECB370_F8E7_4aa5_AD72_A7B4ACDF1DC0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Printer management"
+    id="EAID_BC1B1509_6F53_49a4_8B93_F325CBFEEEA9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_626F_46b2_BF21_6C5E1B97774F">
+    <bounds
+        x="130"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DDC08ECC_626F_46b2_BF21_6C5E1B97774F.xml#EAID_DDC08ECC_626F_46b2_BF21_6C5E1B97774F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Encryption"
+    id="EAID_B490F4F7_3F12_451c_ABE5_203F6461F6AE">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_9693_490a_99D6_7C5DD1A7768A"
+      fillColor="#ccffcc">
+    <bounds
+        x="460"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_12E15D49_9693_490a_99D6_7C5DD1A7768A.xml#EAID_12E15D49_9693_490a_99D6_7C5DD1A7768A"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Malware en spamfiltering"
+    id="EAID_A3F23D7B_3A9B_4115_A6EC_9817C04B174A">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_4400_459d_BF34_8CBC81BE6CE5">
+    <bounds
+        x="405"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5.xml#EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

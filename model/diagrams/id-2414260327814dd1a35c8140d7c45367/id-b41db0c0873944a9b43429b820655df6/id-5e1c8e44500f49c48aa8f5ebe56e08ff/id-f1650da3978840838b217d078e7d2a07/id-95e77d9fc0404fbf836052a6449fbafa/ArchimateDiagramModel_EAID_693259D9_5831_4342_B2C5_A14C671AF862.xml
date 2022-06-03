@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - SQL2014 single instance"
+    id="EAID_693259D9_5831_4342_B2C5_A14C671AF862">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000017_9601_4992_B682_BAB6715CE99E">
+    <bounds
+        x="320"
+        y="97"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F809E885_9601_4992_B682_BAB6715CE99E.xml#EAID_F809E885_9601_4992_B682_BAB6715CE99E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

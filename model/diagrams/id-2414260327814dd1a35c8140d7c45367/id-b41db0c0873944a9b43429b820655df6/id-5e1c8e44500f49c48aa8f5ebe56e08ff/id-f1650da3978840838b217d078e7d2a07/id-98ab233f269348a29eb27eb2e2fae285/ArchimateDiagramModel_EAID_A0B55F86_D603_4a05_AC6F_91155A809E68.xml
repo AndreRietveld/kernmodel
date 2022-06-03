@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Glassfish 3.x"
+    id="EAID_A0B55F86_D603_4a05_AC6F_91155A809E68">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_8834_43aa_9F43_220E33104F85">
+    <bounds
+        x="415"
+        y="110"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F5067BC9_8834_43aa_9F43_220E33104F85.xml#EAID_F5067BC9_8834_43aa_9F43_220E33104F85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_8AFF_4ebd_962C_0E923E807395">
+    <bounds
+        x="252"
+        y="110"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395.xml#EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395"/>
+  </children>
+</archimate:ArchimateDiagramModel>

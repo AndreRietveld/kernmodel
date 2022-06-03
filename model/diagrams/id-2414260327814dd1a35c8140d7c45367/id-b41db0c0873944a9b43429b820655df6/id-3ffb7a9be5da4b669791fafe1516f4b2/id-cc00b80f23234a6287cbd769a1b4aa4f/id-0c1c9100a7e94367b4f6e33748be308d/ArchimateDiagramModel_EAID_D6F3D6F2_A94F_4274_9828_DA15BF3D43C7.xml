@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Telephony &amp; videoconference"
+    id="EAID_D6F3D6F2_A94F_4274_9828_DA15BF3D43C7"
+    documentation="20170420 validated by Carel Sobering">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_68B3_4e91_8ADA_F70062876A08">
+    <bounds
+        x="460"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_9655AC55_68B3_4e91_8ADA_F70062876A08.xml#EAID_9655AC55_68B3_4e91_8ADA_F70062876A08"/>
+  </children>
+</archimate:ArchimateDiagramModel>

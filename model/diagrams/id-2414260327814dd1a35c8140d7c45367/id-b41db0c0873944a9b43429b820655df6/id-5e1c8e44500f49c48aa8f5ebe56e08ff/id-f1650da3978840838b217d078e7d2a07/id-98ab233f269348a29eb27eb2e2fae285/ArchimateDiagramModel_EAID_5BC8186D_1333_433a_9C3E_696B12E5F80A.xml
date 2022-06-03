@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - SAP platform"
+    id="EAID_5BC8186D_1333_433a_9C3E_696B12E5F80A"
+    documentation="20170316 validated by Piet Kempenaar &amp; Herman Haan">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000007_8AFF_4ebd_962C_0E923E807395">
+    <bounds
+        x="340"
+        y="90"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395.xml#EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395"/>
+  </children>
+</archimate:ArchimateDiagramModel>

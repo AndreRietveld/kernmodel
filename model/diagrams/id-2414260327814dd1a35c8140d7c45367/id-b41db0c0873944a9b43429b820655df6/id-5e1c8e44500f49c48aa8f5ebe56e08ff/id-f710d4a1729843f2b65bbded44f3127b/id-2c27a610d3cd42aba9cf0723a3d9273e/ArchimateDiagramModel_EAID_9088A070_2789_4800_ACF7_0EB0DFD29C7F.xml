@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - VMware Horizon client"
+    id="EAID_9088A070_2789_4800_ACF7_0EB0DFD29C7F"
+    documentation="20170606 validated by Rien Timmer">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_1146_4fb2_B641_F5FC2E521264">
+    <bounds
+        x="20"
+        y="240"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A4733125_1146_4fb2_B641_F5FC2E521264.xml#EAID_A4733125_1146_4fb2_B641_F5FC2E521264"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_3554_4709_AD6B_60D809E575B0">
+    <bounds
+        x="20"
+        y="295"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_C98FA409_3554_4709_AD6B_60D809E575B0.xml#EAID_C98FA409_3554_4709_AD6B_60D809E575B0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

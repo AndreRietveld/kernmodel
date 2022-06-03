@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Diginet-RINISnet"
+    id="EAID_C7114FB5_E6B4_479e_A746_CD021C6BB555">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_8CF4_4ba0_825C_8E2C5B340A5C">
+    <bounds
+        x="476"
+        y="94"
+        width="80"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AB0A79CD_8CF4_4ba0_825C_8E2C5B340A5C.xml#EAID_AB0A79CD_8CF4_4ba0_825C_8E2C5B340A5C"/>
+  </children>
+</archimate:ArchimateDiagramModel>

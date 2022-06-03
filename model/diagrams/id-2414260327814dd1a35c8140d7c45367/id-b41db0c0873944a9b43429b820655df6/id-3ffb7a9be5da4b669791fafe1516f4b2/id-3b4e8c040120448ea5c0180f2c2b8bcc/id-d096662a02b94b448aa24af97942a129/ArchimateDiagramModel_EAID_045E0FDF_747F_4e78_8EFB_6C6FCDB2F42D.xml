@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Service level management"
+    id="EAID_045E0FDF_747F_4e78_8EFB_6C6FCDB2F42D">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_2C0F_468f_A212_1AB0DCE88D7E">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AF69E13B_2C0F_468f_A212_1AB0DCE88D7E.xml#EAID_AF69E13B_2C0F_468f_A212_1AB0DCE88D7E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

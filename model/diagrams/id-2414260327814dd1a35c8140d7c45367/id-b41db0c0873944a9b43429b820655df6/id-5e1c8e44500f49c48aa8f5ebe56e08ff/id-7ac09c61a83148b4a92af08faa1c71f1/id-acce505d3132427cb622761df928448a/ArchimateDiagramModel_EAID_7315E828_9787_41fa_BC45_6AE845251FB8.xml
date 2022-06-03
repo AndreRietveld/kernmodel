@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Reverse/Forward Proxy Forcepoint (Websense)"
+    id="EAID_7315E828_9787_41fa_BC45_6AE845251FB8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_C845_4d88_8960_DDCEEE87E4A9"
+      fillColor="#ccffcc">
+    <bounds
+        x="454"
+        y="111"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9.xml#EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_4400_459d_BF34_8CBC81BE6CE5">
+    <bounds
+        x="342"
+        y="111"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5.xml#EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

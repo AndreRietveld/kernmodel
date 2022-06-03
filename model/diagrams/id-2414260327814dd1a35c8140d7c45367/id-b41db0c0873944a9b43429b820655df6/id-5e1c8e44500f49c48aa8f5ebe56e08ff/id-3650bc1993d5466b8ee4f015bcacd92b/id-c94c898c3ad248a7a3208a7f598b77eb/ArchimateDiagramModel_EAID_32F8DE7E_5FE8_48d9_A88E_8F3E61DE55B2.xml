@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Fluency TTS"
+    id="EAID_32F8DE7E_5FE8_48d9_A88E_8F3E61DE55B2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_E43A_454d_A1FD_34A8AD7F83A5">
+    <bounds
+        x="358"
+        y="111"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5.xml#EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

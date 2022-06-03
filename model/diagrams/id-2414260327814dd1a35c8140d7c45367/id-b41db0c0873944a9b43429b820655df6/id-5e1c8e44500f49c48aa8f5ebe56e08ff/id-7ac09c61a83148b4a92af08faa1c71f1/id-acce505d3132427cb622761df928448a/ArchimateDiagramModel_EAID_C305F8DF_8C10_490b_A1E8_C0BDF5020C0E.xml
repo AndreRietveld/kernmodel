@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - PKI-ODOC certificaten"
+    id="EAID_C305F8DF_8C10_490b_A1E8_C0BDF5020C0E"
+    documentation="20170321 validated by Jeroen Bakker">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000015_4D14_4f7a_819F_FE7BD61D0EC3">
+    <bounds
+        x="341"
+        y="116"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3.xml#EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

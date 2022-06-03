@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Avaya Interactive Response"
+    id="EAID_F75CBC01_2080_4366_BDFB_3CD1BFF69181">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_A7E5_49f8_AD07_56ACC608871E">
+    <bounds
+        x="381"
+        y="132"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E.xml#EAID_529A9BD0_A7E5_49f8_AD07_56ACC608871E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

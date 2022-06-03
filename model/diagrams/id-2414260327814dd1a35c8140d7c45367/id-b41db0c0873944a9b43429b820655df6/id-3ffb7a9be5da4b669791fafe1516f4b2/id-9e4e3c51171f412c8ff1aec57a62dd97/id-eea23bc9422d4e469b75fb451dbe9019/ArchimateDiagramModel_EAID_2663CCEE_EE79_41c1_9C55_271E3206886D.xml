@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Local storage"
+    id="EAID_2663CCEE_EE79_41c1_9C55_271E3206886D"
+    documentation="20170425 validated by Eric Kuik">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_EA84_4f17_A843_7BBF1AF7082A">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_017C28FA_EA84_4f17_A843_7BBF1AF7082A.xml#EAID_017C28FA_EA84_4f17_A843_7BBF1AF7082A"/>
+  </children>
+</archimate:ArchimateDiagramModel>

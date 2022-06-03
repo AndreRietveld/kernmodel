@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Message routing"
+    id="EAID_7DB03AA5_27D1_4e01_A443_71AF1EA4F801"
+    documentation="20170420 validated by Fabian Munneke">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_0E84_4be6_886A_47B548412A4A"
+      fillColor="#ccffcc">
+    <bounds
+        x="460"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_0BA5240D_0E84_4be6_886A_47B548412A4A.xml#EAID_0BA5240D_0E84_4be6_886A_47B548412A4A"/>
+  </children>
+</archimate:ArchimateDiagramModel>

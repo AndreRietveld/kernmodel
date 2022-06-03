@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Red Hat Satellite 5.x"
+    id="EAID_992BBB34_55E1_4e43_A586_1B6086387175">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000008_A71C_45fa_B643_98549738E009">
+    <bounds
+        x="120"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A8644B40_A71C_45fa_B643_98549738E009.xml#EAID_A8644B40_A71C_45fa_B643_98549738E009"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_74A0_4e79_A2A0_C2D68D7FDF27">
+    <bounds
+        x="240"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_0B4670D2_74A0_4e79_A2A0_C2D68D7FDF27.xml#EAID_0B4670D2_74A0_4e79_A2A0_C2D68D7FDF27"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_C65E_4664_B238_75DBA341A92F">
+    <bounds
+        x="360"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_98DFE4DB_C65E_4664_B238_75DBA341A92F.xml#EAID_98DFE4DB_C65E_4664_B238_75DBA341A92F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

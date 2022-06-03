@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Tape robot"
+    id="EAID_4ECAB8DF_EECE_4474_9B10_78E43B516225">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_3420_4e40_B8B3_DE6125CE03DA">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA.xml#EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA"/>
+  </children>
+</archimate:ArchimateDiagramModel>

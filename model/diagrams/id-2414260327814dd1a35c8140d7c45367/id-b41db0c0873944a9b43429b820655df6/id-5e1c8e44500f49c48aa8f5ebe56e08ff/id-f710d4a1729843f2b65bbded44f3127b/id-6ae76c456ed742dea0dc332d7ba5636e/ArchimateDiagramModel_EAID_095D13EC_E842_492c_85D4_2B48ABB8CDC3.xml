@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Tape robot"
+    id="EAID_095D13EC_E842_492c_85D4_2B48ABB8CDC3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_3420_4e40_B8B3_DE6125CE03DA">
+    <bounds
+        x="345"
+        y="118"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA.xml#EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_685F_40df_9E61_14C2D2DB780D">
+    <bounds
+        x="249"
+        y="624"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_EAID_68D2EDAF_685F_40df_9E61_14C2D2DB780D.xml#EAID_68D2EDAF_685F_40df_9E61_14C2D2DB780D"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000010_E462_4a2b_957F_A5CFA0688F47">
+    <bounds
+        x="431"
+        y="624"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_EAID_C2DAA8B6_E462_4a2b_957F_A5CFA0688F47.xml#EAID_C2DAA8B6_E462_4a2b_957F_A5CFA0688F47"/>
+  </children>
+</archimate:ArchimateDiagramModel>

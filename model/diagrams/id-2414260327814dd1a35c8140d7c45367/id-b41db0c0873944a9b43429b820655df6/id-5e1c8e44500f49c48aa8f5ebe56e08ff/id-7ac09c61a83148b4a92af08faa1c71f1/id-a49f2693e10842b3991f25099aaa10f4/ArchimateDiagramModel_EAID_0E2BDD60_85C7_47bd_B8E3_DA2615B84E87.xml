@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - CMDB Pilot Server"
+    id="EAID_0E2BDD60_85C7_47bd_B8E3_DA2615B84E87"
+    documentation="Validated&#xA;20180416by Jeroen Bakker">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_A71C_45fa_B643_98549738E009">
+    <bounds
+        x="339"
+        y="112"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A8644B40_A71C_45fa_B643_98549738E009.xml#EAID_A8644B40_A71C_45fa_B643_98549738E009"/>
+  </children>
+</archimate:ArchimateDiagramModel>

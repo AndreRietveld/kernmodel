@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Checkpoint security managment"
+    id="EAID_FFB39B1C_3CA7_44e8_8DFA_EBC2D6D770B3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_A71C_45fa_B643_98549738E009">
+    <bounds
+        x="336"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A8644B40_A71C_45fa_B643_98549738E009.xml#EAID_A8644B40_A71C_45fa_B643_98549738E009"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_C239_4d9d_8BE3_FF4DCEAD5C08">
+    <bounds
+        x="448"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_44704721_C239_4d9d_8BE3_FF4DCEAD5C08.xml#EAID_44704721_C239_4d9d_8BE3_FF4DCEAD5C08"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000009_6391_487a_B4D3_E44F5A1A46A3">
+    <bounds
+        x="224"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3.xml#EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

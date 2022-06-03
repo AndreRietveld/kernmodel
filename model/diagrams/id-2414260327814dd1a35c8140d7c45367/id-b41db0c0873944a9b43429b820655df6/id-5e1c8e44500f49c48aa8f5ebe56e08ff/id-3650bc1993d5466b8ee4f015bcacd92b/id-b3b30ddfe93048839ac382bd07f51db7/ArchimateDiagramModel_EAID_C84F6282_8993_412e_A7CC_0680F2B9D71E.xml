@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Java E-Mail service"
+    id="EAID_C84F6282_8993_412e_A7CC_0680F2B9D71E">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_C63C_4dfe_A427_25B32B86E8DB">
+    <bounds
+        x="20"
+        y="180"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AC29E82D_C63C_4dfe_A427_25B32B86E8DB.xml#EAID_AC29E82D_C63C_4dfe_A427_25B32B86E8DB"/>
+  </children>
+</archimate:ArchimateDiagramModel>

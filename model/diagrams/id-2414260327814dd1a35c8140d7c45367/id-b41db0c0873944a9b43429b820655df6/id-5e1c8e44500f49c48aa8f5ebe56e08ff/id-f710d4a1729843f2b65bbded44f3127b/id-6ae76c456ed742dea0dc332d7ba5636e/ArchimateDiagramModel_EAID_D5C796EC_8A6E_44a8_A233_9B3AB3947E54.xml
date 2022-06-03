@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - NetApp EF-series"
+    id="EAID_D5C796EC_8A6E_44a8_A233_9B3AB3947E54">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_93B4_4669_8EC9_D98876609EA8">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_39C6A3EA_93B4_4669_8EC9_D98876609EA8.xml#EAID_39C6A3EA_93B4_4669_8EC9_D98876609EA8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

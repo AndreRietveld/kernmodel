@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Fysieke server x64"
+    id="EAID_B7AB534C_C9F1_408e_947E_4D5567574C34">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_9E07_44cc_806B_3C6D1A9AC869">
+    <bounds
+        x="317"
+        y="186"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_64FF7944_9E07_44cc_806B_3C6D1A9AC869.xml#EAID_64FF7944_9E07_44cc_806B_3C6D1A9AC869"/>
+  </children>
+</archimate:ArchimateDiagramModel>

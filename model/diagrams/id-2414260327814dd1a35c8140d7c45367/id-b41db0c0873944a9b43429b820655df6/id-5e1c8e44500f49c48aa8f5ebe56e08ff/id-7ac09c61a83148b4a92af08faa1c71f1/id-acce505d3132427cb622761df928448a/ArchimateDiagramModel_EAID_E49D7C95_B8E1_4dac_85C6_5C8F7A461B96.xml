@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Citrix Mobile Device/Application Management"
+    id="EAID_E49D7C95_B8E1_4dac_85C6_5C8F7A461B96"
+    documentation="20170425 validated by Bob Niessink&#xA;&#xA;planned update by Alex Goris">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_ED6D_4056_984A_A1ED7497E230">
+    <bounds
+        x="408"
+        y="142"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230.xml#EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Wyse Device Manager"
+    id="EAID_5D5955F1_4E29_4110_B471_013F0202C67D"
+    documentation="20170515 validated by Rien Timmer">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000008_74A0_4e79_A2A0_C2D68D7FDF27">
+    <bounds
+        x="303"
+        y="121"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_0B4670D2_74A0_4e79_A2A0_C2D68D7FDF27.xml#EAID_0B4670D2_74A0_4e79_A2A0_C2D68D7FDF27"/>
+  </children>
+</archimate:ArchimateDiagramModel>

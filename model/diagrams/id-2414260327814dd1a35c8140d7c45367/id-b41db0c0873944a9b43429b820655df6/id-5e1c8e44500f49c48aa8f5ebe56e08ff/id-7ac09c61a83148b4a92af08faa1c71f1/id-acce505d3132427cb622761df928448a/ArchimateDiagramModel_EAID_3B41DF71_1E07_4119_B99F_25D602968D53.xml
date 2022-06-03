@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Trustbuilder virtual appliance"
+    id="EAID_3B41DF71_1E07_4119_B99F_25D602968D53">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000018_4D14_4f7a_819F_FE7BD61D0EC3">
+    <bounds
+        x="270"
+        y="130"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3.xml#EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

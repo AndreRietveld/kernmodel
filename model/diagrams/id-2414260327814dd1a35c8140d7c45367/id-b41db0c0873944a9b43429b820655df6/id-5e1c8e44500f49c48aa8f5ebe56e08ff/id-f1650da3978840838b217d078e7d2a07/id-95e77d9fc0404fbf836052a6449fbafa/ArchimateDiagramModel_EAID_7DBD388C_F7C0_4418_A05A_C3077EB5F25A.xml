@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Virtuoso database omgeving"
+    id="EAID_7DBD388C_F7C0_4418_A05A_C3077EB5F25A"
+    documentation="Validated:&#xA;20170929 by Henk Boxma">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000020_9601_4992_B682_BAB6715CE99E">
+    <bounds
+        x="50"
+        y="400"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F809E885_9601_4992_B682_BAB6715CE99E.xml#EAID_F809E885_9601_4992_B682_BAB6715CE99E"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_2A63_4414_86BA_3EADF83411D4">
+    <bounds
+        x="350"
+        y="80"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_4E7214F0_2A63_4414_86BA_3EADF83411D4.xml#EAID_4E7214F0_2A63_4414_86BA_3EADF83411D4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

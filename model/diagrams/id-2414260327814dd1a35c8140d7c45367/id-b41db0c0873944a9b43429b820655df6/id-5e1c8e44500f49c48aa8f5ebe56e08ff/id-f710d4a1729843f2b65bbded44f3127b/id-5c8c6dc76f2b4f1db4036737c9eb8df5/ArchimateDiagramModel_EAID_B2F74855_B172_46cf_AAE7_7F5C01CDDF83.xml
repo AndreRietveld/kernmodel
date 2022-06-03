@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - DHCP enabled router"
+    id="EAID_B2F74855_B172_46cf_AAE7_7F5C01CDDF83">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_B590_4207_9659_BF23EF1F4B6C">
+    <bounds
+        x="354"
+        y="158"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F153767B_B590_4207_9659_BF23EF1F4B6C.xml#EAID_F153767B_B590_4207_9659_BF23EF1F4B6C"/>
+  </children>
+</archimate:ArchimateDiagramModel>

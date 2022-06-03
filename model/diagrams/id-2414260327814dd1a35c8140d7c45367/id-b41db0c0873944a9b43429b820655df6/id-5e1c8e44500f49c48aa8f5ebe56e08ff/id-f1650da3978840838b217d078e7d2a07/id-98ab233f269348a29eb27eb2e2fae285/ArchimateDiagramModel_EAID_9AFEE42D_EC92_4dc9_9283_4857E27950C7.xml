@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Oracle WebLogic Server"
+    id="EAID_9AFEE42D_EC92_4dc9_9283_4857E27950C7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000006_8AFF_4ebd_962C_0E923E807395">
+    <bounds
+        x="250"
+        y="130"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395.xml#EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395"/>
+  </children>
+</archimate:ArchimateDiagramModel>

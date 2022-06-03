@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Palo Alto Traps"
+    id="EAID_20F819F0_4231_4d74_B072_9FD8E3586851"
+    documentation="20170515 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_ED6D_4056_984A_A1ED7497E230">
+    <bounds
+        x="316"
+        y="105"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230.xml#EAID_8D8055A6_ED6D_4056_984A_A1ED7497E230"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_4400_459d_BF34_8CBC81BE6CE5">
+    <bounds
+        x="421"
+        y="105"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5.xml#EAID_19F87485_4400_459d_BF34_8CBC81BE6CE5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

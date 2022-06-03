@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Reverse / Forward Proxy"
+    id="EAID_CC0F9F19_63A6_464d_A302_52822E480E4F">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_C845_4d88_8960_DDCEEE87E4A9"
+      fillColor="#ccffcc">
+    <bounds
+        x="460"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9.xml#EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

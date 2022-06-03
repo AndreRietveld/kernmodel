@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Knowledge creation"
+    id="EAID_4BBBA0AF_1404_4e44_80AE_0BFC77C96AFC">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_74BF_4c0d_A23E_2DE688CF5911">
+    <bounds
+        x="75"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_1761F3E8_74BF_4c0d_A23E_2DE688CF5911.xml#EAID_1761F3E8_74BF_4c0d_A23E_2DE688CF5911"/>
+  </children>
+</archimate:ArchimateDiagramModel>

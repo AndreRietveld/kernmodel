@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - MoVe"
+    id="EAID_A4789CE5_06A5_49ac_928B_4BF2E1E6FDF6"
+    documentation="Product Owner Jakko Boersma&#xA;&#xA;Validated:&#xA;20171012 by Piet Kempenaar">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000007_6391_487a_B4D3_E44F5A1A46A3">
+    <bounds
+        x="350"
+        y="160"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3.xml#EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - SCO + SCOOSP"
+    id="EAID_AC43FBAC_DFE9_4282_B4EC_9C0971480FF9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_C65E_4664_B238_75DBA341A92F">
+    <bounds
+        x="296"
+        y="159"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_98DFE4DB_C65E_4664_B238_75DBA341A92F.xml#EAID_98DFE4DB_C65E_4664_B238_75DBA341A92F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

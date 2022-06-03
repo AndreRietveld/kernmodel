@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Gateway"
+    id="EAID_22568336_B0AB_4f78_A555_D4543831B2E4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_4764_4146_B3EE_16158C972635">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A6A2E72A_4764_4146_B3EE_16158C972635.xml#EAID_A6A2E72A_4764_4146_B3EE_16158C972635"/>
+  </children>
+</archimate:ArchimateDiagramModel>

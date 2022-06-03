@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology ABB realization view - Program"
+    id="EAID_B6D2B5FA_5CFB_4632_8112_0FD883B8C285">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_4FEC_40d2_AEB2_94F475A33137"
+      fillColor="#ccffcc">
+    <bounds
+        x="360"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B8BE0ECC_4FEC_40d2_AEB2_94F475A33137.xml#EAID_B8BE0ECC_4FEC_40d2_AEB2_94F475A33137"/>
+  </children>
+</archimate:ArchimateDiagramModel>

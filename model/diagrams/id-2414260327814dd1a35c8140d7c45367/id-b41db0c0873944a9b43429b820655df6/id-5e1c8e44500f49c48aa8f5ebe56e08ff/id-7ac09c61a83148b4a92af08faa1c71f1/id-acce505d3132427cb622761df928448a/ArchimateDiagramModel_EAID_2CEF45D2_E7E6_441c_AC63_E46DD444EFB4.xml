@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - ISAM extern"
+    id="EAID_2CEF45D2_E7E6_441c_AC63_E46DD444EFB4"
+    documentation="Validated:&#xA;20180312 by Jeroen Bakker">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000012_1146_4fb2_B641_F5FC2E521264">
+    <bounds
+        x="200"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A4733125_1146_4fb2_B641_F5FC2E521264.xml#EAID_A4733125_1146_4fb2_B641_F5FC2E521264"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000012_4D14_4f7a_819F_FE7BD61D0EC3">
+    <bounds
+        x="300"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3.xml#EAID_F165AA60_4D14_4f7a_819F_FE7BD61D0EC3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

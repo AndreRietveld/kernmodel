@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - ITP Document Platform"
+    id="EAID_CAF53D41_3761_4477_91C0_B37D470F3B2F">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_EBCA_4be0_A548_F81E3ADBB021">
+    <bounds
+        x="412"
+        y="134"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_62787CFE_EBCA_4be0_A548_F81E3ADBB021.xml#EAID_62787CFE_EBCA_4be0_A548_F81E3ADBB021"/>
+  </children>
+</archimate:ArchimateDiagramModel>

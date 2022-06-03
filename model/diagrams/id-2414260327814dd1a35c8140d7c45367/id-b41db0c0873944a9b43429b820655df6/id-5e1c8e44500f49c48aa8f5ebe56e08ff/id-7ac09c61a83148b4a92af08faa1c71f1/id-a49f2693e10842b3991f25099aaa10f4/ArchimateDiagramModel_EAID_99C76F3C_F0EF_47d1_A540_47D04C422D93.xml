@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - UMRA user management"
+    id="EAID_99C76F3C_F0EF_47d1_A540_47D04C422D93"
+    documentation="20171010 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_B1E4_4120_B10C_8B3BA0EAA673">
+    <bounds
+        x="100"
+        y="120"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_EAID_2D794EE5_B1E4_4120_B10C_8B3BA0EAA673.xml#EAID_2D794EE5_B1E4_4120_B10C_8B3BA0EAA673"/>
+  </children>
+</archimate:ArchimateDiagramModel>

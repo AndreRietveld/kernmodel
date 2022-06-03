@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Jetty 8.5"
+    id="EAID_5C755499_6392_4bb5_83A3_87C6FA54B497">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_8AFF_4ebd_962C_0E923E807395">
+    <bounds
+        x="378"
+        y="138"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395.xml#EAID_8A9F2895_8AFF_4ebd_962C_0E923E807395"/>
+  </children>
+</archimate:ArchimateDiagramModel>

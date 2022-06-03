@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Infoblox extern"
+    id="EAID_D73FEC39_55C7_4b8e_91D7_03B3513CA772">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_15E1_42a3_8D9E_C67BCB5F1599">
+    <bounds
+        x="226"
+        y="101"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_9A9F592D_15E1_42a3_8D9E_C67BCB5F1599.xml#EAID_9A9F592D_15E1_42a3_8D9E_C67BCB5F1599"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_236D_47e5_AA85_5EC0807C9437">
+    <bounds
+        x="362"
+        y="101"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_74292049_236D_47e5_AA85_5EC0807C9437.xml#EAID_74292049_236D_47e5_AA85_5EC0807C9437"/>
+  </children>
+</archimate:ArchimateDiagramModel>

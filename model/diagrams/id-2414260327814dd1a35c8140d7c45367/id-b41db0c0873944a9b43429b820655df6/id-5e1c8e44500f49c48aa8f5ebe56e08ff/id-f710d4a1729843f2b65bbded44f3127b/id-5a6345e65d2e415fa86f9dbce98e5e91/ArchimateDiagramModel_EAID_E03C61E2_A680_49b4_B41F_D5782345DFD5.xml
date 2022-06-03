@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Stateful Desktop VM"
+    id="EAID_E03C61E2_A680_49b4_B41F_D5782345DFD5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_4CBD_46dd_8882_8C8005133CA9">
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_EBBDBA14_4CBD_46dd_8882_8C8005133CA9.xml#EAID_EBBDBA14_4CBD_46dd_8882_8C8005133CA9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

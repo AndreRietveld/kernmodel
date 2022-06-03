@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Regiokantoren"
+    id="EAID_1F8687D1_FFD4_427a_9B59_1732C488064A">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_2103_49a4_82DD_CD117AF2B0DE">
+    <bounds
+        x="206"
+        y="120"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_EAID_C33F762B_2103_49a4_82DD_CD117AF2B0DE.xml#EAID_C33F762B_2103_49a4_82DD_CD117AF2B0DE"/>
+  </children>
+</archimate:ArchimateDiagramModel>

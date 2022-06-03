@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - RINIS"
+    id="EAID_C70E079B_D3D2_44ca_A3CD_8CF151B002D6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_3907_473d_9EAC_E2FD9CF4317B"
+      fillColor="#ccffcc">
+    <bounds
+        x="356"
+        y="80"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_7628FA22_3907_473d_9EAC_E2FD9CF4317B.xml#EAID_7628FA22_3907_473d_9EAC_E2FD9CF4317B"/>
+  </children>
+</archimate:ArchimateDiagramModel>

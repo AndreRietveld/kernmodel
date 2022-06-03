@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Local Storage"
+    id="EAID_6DEA6F03_1529_4580_8CA5_3B1A321EB5BD">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_EA84_4f17_A843_7BBF1AF7082A">
+    <bounds
+        x="339"
+        y="135"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_017C28FA_EA84_4f17_A843_7BBF1AF7082A.xml#EAID_017C28FA_EA84_4f17_A843_7BBF1AF7082A"/>
+  </children>
+</archimate:ArchimateDiagramModel>

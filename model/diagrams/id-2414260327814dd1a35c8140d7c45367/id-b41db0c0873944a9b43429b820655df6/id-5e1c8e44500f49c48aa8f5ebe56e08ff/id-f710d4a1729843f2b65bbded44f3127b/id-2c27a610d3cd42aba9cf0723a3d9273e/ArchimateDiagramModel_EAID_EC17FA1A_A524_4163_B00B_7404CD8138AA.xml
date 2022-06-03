@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Equitrac Office"
+    id="EAID_EC17FA1A_A524_4163_B00B_7404CD8138AA"
+    documentation="20170613 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_5D97_4cf7_9359_0F33AFBC467F">
+    <bounds
+        x="331"
+        y="120"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F.xml#EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - WiINIPDS Printserver"
+    id="EAID_D6BF3BE2_9D89_4128_89B0_3BD0CDF37457"
+    documentation="20170530 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_5D97_4cf7_9359_0F33AFBC467F">
+    <bounds
+        x="344"
+        y="175"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F.xml#EAID_5EAF47AE_5D97_4cf7_9359_0F33AFBC467F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Checkpoint Firewall"
+    id="EAID_75C4368A_9356_45ea_B115_12F1452ADBC2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_CC47_4833_B849_992C30500284">
+    <bounds
+        x="387"
+        y="124"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E28BA702_CC47_4833_B849_992C30500284.xml#EAID_E28BA702_CC47_4833_B849_992C30500284"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_4764_4146_B3EE_16158C972635">
+    <bounds
+        x="269"
+        y="124"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A6A2E72A_4764_4146_B3EE_16158C972635.xml#EAID_A6A2E72A_4764_4146_B3EE_16158C972635"/>
+  </children>
+</archimate:ArchimateDiagramModel>

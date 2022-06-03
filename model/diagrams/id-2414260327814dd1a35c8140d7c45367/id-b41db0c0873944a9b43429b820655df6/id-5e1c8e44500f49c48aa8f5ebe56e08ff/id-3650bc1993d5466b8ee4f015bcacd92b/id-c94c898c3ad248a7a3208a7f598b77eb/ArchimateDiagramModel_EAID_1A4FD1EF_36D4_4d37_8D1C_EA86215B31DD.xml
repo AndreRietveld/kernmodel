@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Dragon Natural Speaking"
+    id="EAID_1A4FD1EF_36D4_4d37_8D1C_EA86215B31DD">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_E43A_454d_A1FD_34A8AD7F83A5">
+    <bounds
+        x="375"
+        y="127"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5.xml#EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_E345_48d8_BB18_333A8B0897B9">
+    <bounds
+        x="674"
+        y="267"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_EAID_C97DEC5C_E345_48d8_BB18_333A8B0897B9.xml#EAID_C97DEC5C_E345_48d8_BB18_333A8B0897B9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_9961_488c_B41E_546605763CEF">
+    <bounds
+        x="674"
+        y="350"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_EAID_19632216_9961_488c_B41E_546605763CEF.xml#EAID_19632216_9961_488c_B41E_546605763CEF"/>
+  </children>
+</archimate:ArchimateDiagramModel>

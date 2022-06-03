@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Message queueing"
+    id="EAID_A08E10B2_0838_45fe_B944_6EC9F8CFE62A"
+    documentation="20170420 validated by Fabian Munneke">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_49CF_4aad_8CCE_60E88AEFD288"
+      fillColor="#ccffcc">
+    <bounds
+        x="240"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B7911ECC_49CF_4aad_8CCE_60E88AEFD288.xml#EAID_B7911ECC_49CF_4aad_8CCE_60E88AEFD288"/>
+  </children>
+</archimate:ArchimateDiagramModel>

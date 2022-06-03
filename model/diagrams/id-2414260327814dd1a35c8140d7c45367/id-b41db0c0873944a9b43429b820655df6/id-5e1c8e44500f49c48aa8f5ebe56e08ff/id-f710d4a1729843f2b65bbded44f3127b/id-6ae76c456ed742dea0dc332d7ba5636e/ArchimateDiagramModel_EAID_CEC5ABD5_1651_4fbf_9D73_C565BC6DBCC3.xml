@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Compellent shared storage"
+    id="EAID_CEC5ABD5_1651_4fbf_9D73_C565BC6DBCC3"
+    documentation="Validated&#xA;20180703 by Bart Kruiger ">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000008_1146_4fb2_B641_F5FC2E521264">
+    <bounds
+        x="336"
+        y="89"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A4733125_1146_4fb2_B641_F5FC2E521264.xml#EAID_A4733125_1146_4fb2_B641_F5FC2E521264"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_6391_487a_B4D3_E44F5A1A46A3">
+    <bounds
+        x="176"
+        y="762"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3.xml#EAID_D7D158B0_6391_487a_B4D3_E44F5A1A46A3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_7294_487b_8497_83C3FFF9BF86">
+    <bounds
+        x="522"
+        y="770"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_7F12DCD1_7294_487b_8497_83C3FFF9BF86.xml#EAID_7F12DCD1_7294_487b_8497_83C3FFF9BF86"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - JBoss loadbalancing"
+    id="EAID_C62B587B_237E_4401_BCA7_37F634C3F36D"
+    documentation="20170508 validated by Jan Taeke Schuilenga">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_71BD_4735_8F2D_4F59C8DFA23D">
+    <bounds
+        x="303"
+        y="152"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_FF84C837_71BD_4735_8F2D_4F59C8DFA23D.xml#EAID_FF84C837_71BD_4735_8F2D_4F59C8DFA23D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

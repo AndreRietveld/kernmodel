@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Centrale Externe Ontsluiting"
+    id="EAID_B9C9BA5F_DB60_4856_B1D7_EE2DCE48A8DF"
+    documentation="Niet in productie">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000005_17A0_40fa_82B0_80B2B986E05E"
+      fillColor="#ccffcc">
+    <bounds
+        x="407"
+        y="169"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_12FBAB30_17A0_40fa_82B0_80B2B986E05E.xml#EAID_12FBAB30_17A0_40fa_82B0_80B2B986E05E"/>
+  </children>
+</archimate:ArchimateDiagramModel>

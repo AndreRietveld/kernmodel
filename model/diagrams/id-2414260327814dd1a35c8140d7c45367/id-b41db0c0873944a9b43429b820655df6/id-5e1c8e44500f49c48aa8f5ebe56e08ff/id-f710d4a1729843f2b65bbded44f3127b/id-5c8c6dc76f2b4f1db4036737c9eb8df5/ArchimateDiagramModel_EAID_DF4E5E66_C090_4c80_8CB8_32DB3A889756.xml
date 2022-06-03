@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - LAN Vast"
+    id="EAID_DF4E5E66_C090_4c80_8CB8_32DB3A889756">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_CC47_4833_B849_992C30500284">
+    <bounds
+        x="370"
+        y="434"
+        width="135"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_E28BA702_CC47_4833_B849_992C30500284.xml#EAID_E28BA702_CC47_4833_B849_992C30500284"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_9D31_426b_8A4A_EC125985419B">
+    <bounds
+        x="364"
+        y="52"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_C6CF49C1_9D31_426b_8A4A_EC125985419B.xml#EAID_C6CF49C1_9D31_426b_8A4A_EC125985419B"/>
+  </children>
+</archimate:ArchimateDiagramModel>

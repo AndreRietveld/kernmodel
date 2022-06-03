@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB usage view - Utimaco HSM (confidentieel)"
+    id="EAID_D84F8B8B_3A29_4439_8D52_155EDFE5BD78">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_33E2_4eb7_801A_2EADEB8DFAF6">
+    <bounds
+        x="20"
+        y="110"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_32E50D8D_33E2_4eb7_801A_2EADEB8DFAF6.xml#EAID_32E50D8D_33E2_4eb7_801A_2EADEB8DFAF6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

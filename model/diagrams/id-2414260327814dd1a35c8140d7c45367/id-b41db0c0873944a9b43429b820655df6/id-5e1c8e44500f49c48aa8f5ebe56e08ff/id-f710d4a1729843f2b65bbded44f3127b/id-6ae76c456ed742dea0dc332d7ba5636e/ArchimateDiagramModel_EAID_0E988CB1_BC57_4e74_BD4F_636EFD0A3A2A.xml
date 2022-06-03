@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Digitaal Archief"
+    id="EAID_0E988CB1_BC57_4e74_BD4F_636EFD0A3A2A">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_5EA9_41b0_B055_F06BD6817763">
+    <bounds
+        x="247"
+        y="119"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_01A9D40D_5EA9_41b0_B055_F06BD6817763.xml#EAID_01A9D40D_5EA9_41b0_B055_F06BD6817763"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_DB06_49f5_AE07_055D450CC7D6">
+    <bounds
+        x="437"
+        y="119"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_0E1B2715_DB06_49f5_AE07_055D450CC7D6.xml#EAID_0E1B2715_DB06_49f5_AE07_055D450CC7D6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_51C0_44c9_8676_7460E29D2668">
+    <bounds
+        x="342"
+        y="119"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_D4896980_51C0_44c9_8676_7460E29D2668.xml#EAID_D4896980_51C0_44c9_8676_7460E29D2668"/>
+  </children>
+</archimate:ArchimateDiagramModel>

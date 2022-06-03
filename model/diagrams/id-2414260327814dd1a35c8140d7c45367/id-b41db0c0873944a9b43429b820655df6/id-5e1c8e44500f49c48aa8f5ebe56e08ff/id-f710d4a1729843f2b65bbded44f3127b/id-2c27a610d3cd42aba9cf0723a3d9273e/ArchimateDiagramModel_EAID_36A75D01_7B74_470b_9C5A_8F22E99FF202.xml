@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Fat client"
+    id="EAID_36A75D01_7B74_470b_9C5A_8F22E99FF202">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_4507_411a_90BD_F295F6BA4D57">
+    <bounds
+        x="359"
+        y="149"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_64D9C903_4507_411a_90BD_F295F6BA4D57.xml#EAID_64D9C903_4507_411a_90BD_F295F6BA4D57"/>
+  </children>
+</archimate:ArchimateDiagramModel>

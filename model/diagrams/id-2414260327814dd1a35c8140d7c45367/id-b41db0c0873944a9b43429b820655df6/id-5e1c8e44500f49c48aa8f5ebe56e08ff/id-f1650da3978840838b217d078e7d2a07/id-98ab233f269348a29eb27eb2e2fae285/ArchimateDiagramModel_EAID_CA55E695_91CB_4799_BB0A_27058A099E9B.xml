@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - JBoss EWS"
+    id="EAID_CA55E695_91CB_4799_BB0A_27058A099E9B">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_8834_43aa_9F43_220E33104F85">
+    <bounds
+        x="369"
+        y="131"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_F5067BC9_8834_43aa_9F43_220E33104F85.xml#EAID_F5067BC9_8834_43aa_9F43_220E33104F85"/>
+  </children>
+</archimate:ArchimateDiagramModel>

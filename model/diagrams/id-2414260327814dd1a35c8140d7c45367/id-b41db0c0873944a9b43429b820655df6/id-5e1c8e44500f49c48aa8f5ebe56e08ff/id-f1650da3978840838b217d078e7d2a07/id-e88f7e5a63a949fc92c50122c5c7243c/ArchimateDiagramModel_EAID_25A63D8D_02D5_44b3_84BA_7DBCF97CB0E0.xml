@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - MQ messaging Windows"
+    id="EAID_25A63D8D_02D5_44b3_84BA_7DBCF97CB0E0"
+    documentation="20170504 validated by Bob Niessink">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000006_49CF_4aad_8CCE_60E88AEFD288"
+      fillColor="#ccffcc">
+    <bounds
+        x="310"
+        y="112"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B7911ECC_49CF_4aad_8CCE_60E88AEFD288.xml#EAID_B7911ECC_49CF_4aad_8CCE_60E88AEFD288"/>
+  </children>
+</archimate:ArchimateDiagramModel>

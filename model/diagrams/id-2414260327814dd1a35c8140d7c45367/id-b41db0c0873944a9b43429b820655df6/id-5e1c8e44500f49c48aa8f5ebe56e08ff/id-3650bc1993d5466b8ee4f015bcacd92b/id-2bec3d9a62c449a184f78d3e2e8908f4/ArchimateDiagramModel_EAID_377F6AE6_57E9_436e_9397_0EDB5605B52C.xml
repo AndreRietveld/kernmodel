@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - Microsoft Office Professional 2003"
+    id="EAID_377F6AE6_57E9_436e_9397_0EDB5605B52C">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_0B6B_4d3e_8161_2AF29527318F">
+    <bounds
+        x="341"
+        y="96"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_A61E203B_0B6B_4d3e_8161_2AF29527318F.xml#EAID_A61E203B_0B6B_4d3e_8161_2AF29527318F"/>
+  </children>
+</archimate:ArchimateDiagramModel>

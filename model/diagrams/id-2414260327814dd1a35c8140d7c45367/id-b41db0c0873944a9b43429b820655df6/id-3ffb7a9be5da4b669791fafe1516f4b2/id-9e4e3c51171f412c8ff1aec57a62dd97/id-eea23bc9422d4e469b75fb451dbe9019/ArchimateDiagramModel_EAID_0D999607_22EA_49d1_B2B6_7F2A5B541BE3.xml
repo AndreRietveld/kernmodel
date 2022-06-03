@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Backup en Recovery"
+    id="EAID_0D999607_22EA_49d1_B2B6_7F2A5B541BE3"
+    documentation="Validated&#xA;20180703 by Bart Kruiger ">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_3420_4e40_B8B3_DE6125CE03DA">
+    <bounds
+        x="185"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA.xml#EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA"/>
+  </children>
+</archimate:ArchimateDiagramModel>
