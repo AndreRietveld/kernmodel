@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantvertegenwoordiger"
     id="EAID_030438BE_0E45_41de_9DBF_6B5A26C3B740"
-    documentation="(Niet) natuurlijk persoon die namens een klant optreedt."/>
+    documentation="(Niet) natuurlijk persoon die namens een klant optreedt.">
+  <properties
+      key="Omschrijving"
+      value="(Niet) natuurlijk persoon die namens een klant optreedt."/>
+  <properties
+      key="Kernobject"
+      value="Actor"/>
+  <properties
+      key="AVG-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="Grondslag"
+      value="Vitaal belang van de betrokkene"/>
+</archimate:BusinessObject>

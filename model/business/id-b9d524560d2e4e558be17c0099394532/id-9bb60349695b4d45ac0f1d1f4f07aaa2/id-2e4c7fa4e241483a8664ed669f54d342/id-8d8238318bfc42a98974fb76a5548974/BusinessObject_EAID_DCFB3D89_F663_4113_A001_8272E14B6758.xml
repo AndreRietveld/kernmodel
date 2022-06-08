@@ -6,4 +6,19 @@
   <properties
       key="tets"
       value="soadfjkhngvoasdjfhbg"/>
+  <properties
+      key="Omschrijving"
+      value="De (potentiële) afnemer van een DUO-product of dienst."/>
+  <properties
+      key="Extern_titel"
+      value="Enterprise Architectuur DUO"/>
+  <properties
+      key="Kernobject"
+      value="Actor"/>
+  <properties
+      key="AVG-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="Grondslag"
+      value="Vitaal belang van de betrokkene"/>
 </archimate:BusinessObject>

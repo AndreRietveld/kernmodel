@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerker"
     id="EAID_7549BD5B_168B_4581_8111_E721EE8CA8AD"
-    documentation="Een individu die werkactiviteiten uitvoert in opdracht van de organisatie.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW"/>
+    documentation="Een individu die werkactiviteiten uitvoert in opdracht van de organisatie.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW">
+  <properties
+      key="Omschrijving"
+      value="Een individu die werkactiviteiten uitvoert in opdracht van de organisatie."/>
+  <properties
+      key="Extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+  <properties
+      key="Kernobject"
+      value="Actor"/>
+  <properties
+      key="AVG-categorie"
+      value="Bijzonder of strafrechtelijk persoonsgegeven"/>
+  <properties
+      key="Grondslag"
+      value="Wettelijke verplichting"/>
+</archimate:BusinessObject>

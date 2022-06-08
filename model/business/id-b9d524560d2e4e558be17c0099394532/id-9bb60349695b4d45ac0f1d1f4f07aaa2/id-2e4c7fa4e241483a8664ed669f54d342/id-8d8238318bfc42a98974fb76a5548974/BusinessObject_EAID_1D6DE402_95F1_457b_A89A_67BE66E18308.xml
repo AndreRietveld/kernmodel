@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autorisatie"
     id="EAID_1D6DE402_95F1_457b_A89A_67BE66E18308"
-    documentation="Het recht om gebruik te maken van een autorisatie-object en de condities die daarbij gelden.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW&#xA;&#xA;De verleende toegang (aan een (niet-) natuurlijk persoon of systeem) tot een product of dienst.&#xA;&#xA;Bron: Domeinarchitectuur Bekostiging"/>
+    documentation="Het recht om gebruik te maken van een autorisatie-object en de condities die daarbij gelden.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW&#xA;&#xA;De verleende toegang (aan een (niet-) natuurlijk persoon of systeem) tot een product of dienst.&#xA;&#xA;Bron: Domeinarchitectuur Bekostiging">
+  <properties
+      key="Omschrijving"
+      value="Het recht om gebruik te maken van een autorisatie-object en de condities die daarbij gelden.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW&#xA;&#xA;De verleende toegang (aan een (niet-) natuurlijk persoon of systeem) tot een product of dienst.&#xA;&#xA;Bron: Domeinarchitectuur Bekostiging"/>
+  <properties
+      key="Extern_titel"
+      value="Domeinarchitectuur Bekostiging"/>
+  <properties
+      key="Kernobject"
+      value="Afspraak"/>
+  <properties
+      key="AVG-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="Grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+</archimate:BusinessObject>

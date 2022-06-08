@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publicatie"
     id="EAID_0C5608B6_4610_4020_B6F9_30ECE550D327"
-    documentation="Hetgeen wat openbaar of openlijke bekendgemaakt is.&#xA;&#xA;Bron: Van Dale"/>
+    documentation="Hetgeen wat openbaar of openlijke bekendgemaakt is.&#xA;&#xA;Bron: Van Dale">
+  <properties
+      key="Omschrijving"
+      value="Hetgeen wat openbaar of openlijke bekendgemaakt is."/>
+  <properties
+      key="Extern_titel"
+      value="Van Dale"/>
+  <properties
+      key="Kernobject"
+      value="Product"/>
+  <properties
+      key="AVG-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="Grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+</archimate:BusinessObject>
